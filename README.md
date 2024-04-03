@@ -10,8 +10,13 @@
   <a href="https://t.me/livecodefern1son" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
+  <a href="https://vk.com/fern1son" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=VKontakte&logo=vk&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="VKontakte logo"  />
+  </a>
+  <a href="mailto:yagnykov,program@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email logo"  />
+  </a>
 </div>
-
 
 <h3 align="left">👩‍💻  About me</h3>
 
@@ -43,7 +48,6 @@
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
 
 <h3 align="left">🚀 Technologies</h3>
 
