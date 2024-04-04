@@ -13,7 +13,7 @@
   <a href="https://vk.com/fern1son" target="_blank">
     <img src="https://img.shields.io/static/v1?message=VKontakte&logo=vk&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="VKontakte logo"  />
   </a>
-  <a href="mailto:yagnykov,program@gmail.com" target="_blank">
+  <a href="mailto:yagnykov.program@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email logo"  />
   </a>
 </div>
