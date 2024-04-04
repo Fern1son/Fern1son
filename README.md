@@ -28,7 +28,7 @@
   - *Date:* November 10-13, 2023  
   - *Result:* He developed chatbots based on the GRCC(ГРЧЦ) case using Python and the Aiogram library.
 
-- **Case-Championship of Innovative Solutions of Gazprom Neft 2024**  
+- **Case-Championship of Gazprom**  
   - *Date:* April 5-..., 2024  
   - *Result:* The event is not over yet
 <!--
